@@ -1,0 +1,21 @@
+idDpt,director,idCentro,nombre,presupuesto,director_Tipo
+1,1,1,Sales,"1586,05",R3
+2,2,2,Product Management,"2389,24",R3
+3,3,3,Legal,"2088,85",R1
+4,4,4,Research and Development,"831,48",R3
+5,5,5,Product Management,"199,75",R3
+6,6,6,Services,"1004,91",R3
+7,7,1,Business Development,"140,70",R3
+8,8,8,Research and Development,"2449,65",R2
+9,9,9,Services,"1840,27",R2
+10,10,20,Product Management,"519,59",R3
+11,11,6,Engineering,"325,01",R2
+12,12,12,Research and Development,"1608,63",R3
+13,13,13,Human Resources,"906,32",R1
+14,14,14,Legal,"2273,14",R2
+15,15,10,Sales,"2171,64",R3
+16,16,10,Product Management,"1714,23",R3
+17,17,17,Product Management,"58,77",R2
+18,18,18,Support,"2784,02",R1
+19,19,19,Marketing,"2056,63",R3
+20,20,20,Business Development,"910,74",R1
